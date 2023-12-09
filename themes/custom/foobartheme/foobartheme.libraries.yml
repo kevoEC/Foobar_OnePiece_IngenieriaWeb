@@ -1,0 +1,10 @@
+global-styling:
+  version: 1.x
+  css:
+    theme:
+      css/custom.css: {}
+      https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css: {type: external, minified: true }
+  js:
+    https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js: {type: external, minified: true }
+    js/custom.js: {}
+

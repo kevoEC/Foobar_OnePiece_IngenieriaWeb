@@ -1,0 +1,11 @@
+name: Foobartheme
+type: theme
+description: 'Custom Theme by Kevin Rosero'
+core_version_requirement: '>=10'
+libraries:
+  - foobartheme/global-styling
+base theme: stable9
+regions:
+  header: 'Header'
+  content: 'Content'
+  footer: 'Footer'
